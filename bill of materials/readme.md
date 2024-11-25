@@ -14,7 +14,7 @@
 |         9|   Arduino uno | microcontroller          |  recup         | € 0              |   1   |  € 0       |
 |         10|  40 Male-Female |   kabels      |  Nieuw         | € 1.95              |   1   |  € 1.95      |
 |         11|  2-weg batterijhouder |    batterijhouder en omvormer       | Nieuw         | € 14.00              |   1   |  € 14.00     |
-|         12|  plaat| plaat       | recup        | € 14.00              |   1   |  € 14.00     |
-|         Totaal|  |        |        |              |      |     € 114.30 |
+|         12|  plaat| plaat       | recup        | € 0.00              |   1   |  € 0.00     |
+|         Totaal|  |        |        |              |      |     € 100.30 |
 
 
